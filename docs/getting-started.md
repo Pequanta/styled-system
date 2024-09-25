@@ -222,5 +222,5 @@ For a complete list, see the [Reference Table][] of style functions.
 
 [styled components]: https://github.com/styled-components/styled-components
 [emotion]: https://github.com/emotion-js/emotion
-[responsive styles]: /responsive-styles
-[reference table]: /table
+[responsive styles]: ./responsive-styles
+[reference table]: ./table
